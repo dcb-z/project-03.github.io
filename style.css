@@ -1,14 +1,23 @@
 body {
-    background-color: #ffeef2;
-    margin: 40px;
+  background-color: #ffe4ec; /* pale pink */
+  margin: 40px;
 }
 
 h1 {
-    color: #b22222;
-    font-family: Arial, sans-serif;
+  color: #4b0082; /* dark purple */
+  font-family: Arial, sans-serif;
 }
 
 p {
-    color: #2e4a62;
-    font-family: Georgia, serif;
+  color: #c2185b; /* dark pink */
+  font-family: Georgia, serif;
+}
+
+/* optional but makes it prettier */
+h2, h3 {
+  color: #6a0dad; /* soft purple */
+}
+
+a {
+  color: #c2185b;
 }
