@@ -1,27 +1,24 @@
 body {
-  background-color: #ffe4ec; /* pale pink */
-  margin: 40px;
+  background-color: #f8e6ea; /* soft blush pink */
+  max-width: 800px;
+  margin: 40px auto;
+  line-height: 1.6;
 }
 
 h1 {
-  color: #4b0082; /* dark purple */
+  color: #3b1f2b; /* deep plum/brown */
   font-family: Arial, sans-serif;
 }
 
 p {
-  color: #c2185b; /* dark pink */
+  color: #7a3e48; /* muted rose */
   font-family: Georgia, serif;
 }
 
 h2, h3 {
-  color: #6a0dad; /* soft purple */
+  color: #5a2d34; /* warm brown/pink */
 }
 
 a {
-  color: #c2185b;
-}
-body {
-  max-width: 800px;
-  margin: 40px auto;
-  line-height: 1.6;
+  color: #a44a5d; /* soft rose */
 }
