@@ -1,15 +1,47 @@
-# Personal Introduction Website
+# Project Scope: Photography Portfolio Website
 
-This project is a personal introduction website created for CMPA 3301. It introduces who I am, my background, and my interests as a Dental Hygienist and Human-Centered AI student.
+## Purpose
+The purpose of this project is to create a professional photography portfolio website to showcase my work and establish an online presence.
 
-## Live Website
-https://dcb-z.github.io
+## Target Audience
+- Potential clients
+- Employers
+- Friends and family
 
-## Description
-The site includes my name, career, goals, hobbies, and a link to my GitHub profile. It is styled using CSS with a soft color palette.
+## Features
+- Homepage with photo gallery
+- About page with photographer information
+- Navigation between pages
+- Clean, modern design
 
-## Repository
-This repository contains:
-- index.html
-- style.css
-- README.md
+## Goals
+- Display photography work professionally
+- Create a portfolio for future opportunities
+- Demonstrate web development and project management skills
+
+---
+
+## Priorities
+
+### Time
+The project must be completed before the final deadline with enough time for testing and revisions.
+
+### Quality
+The website should be visually clean, functional, and easy to navigate.
+
+### Budget
+This project has no financial cost and will use free tools such as GitHub and personal resources.
+
+---
+
+## Constraints
+- Limited time to complete the project
+- Beginner-level coding experience
+- Dependence on GitHub Pages for deployment
+
+---
+
+## Exclusions
+- No advanced features such as e-commerce or user login
+- No backend functionality
+- No mobile app development
