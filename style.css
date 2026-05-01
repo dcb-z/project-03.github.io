@@ -37,6 +37,13 @@ nav a {
   height: auto;
   border-radius: 10px;
 }
+.video-container {
+  margin-bottom: 20px;
+}
+
+.intro {
+  margin-top: 10px;
+}
 
 .intro {
     padding: 40px 20px;
