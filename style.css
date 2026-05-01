@@ -26,7 +26,17 @@ nav a {
     width: 100%;
     height: auto;
 }
+.video-container {
+    text-align: center;
+    margin: 40px auto;
+}
 
+.video-container video {
+    width: 60%;        /* 👈 controls size */
+    max-width: 500px;  /* 👈 prevents it from getting huge */
+    height: auto;
+    border-radius: 10px;
+}
 .intro {
     padding: 40px 20px;
 }
