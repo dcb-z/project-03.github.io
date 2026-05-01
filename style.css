@@ -56,6 +56,11 @@ nav a:hover {
 }
 
 /* ===== VIDEO SECTION  ===== */
+.video-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
 .video {
   width: 70%;
   max-width: 700px;
@@ -100,4 +105,11 @@ footer {
   color: #8b645a;
   margin-top: 50px;
   font-size: 14px;
+}
+video {
+  width: 60% !important;
+  max-width: 700px !important;
+  height: auto !important;
+  display: block !important;
+  margin: 20px auto !important;
 }
