@@ -27,16 +27,17 @@ nav a {
     height: auto;
 }
 .video-container {
-    text-align: center;
-    margin: 40px auto;
+  text-align: center;
+  margin: 40px auto;
 }
 
-.video-container video {
-    width: 60%;        /* 👈 controls size */
-    max-width: 500px;  /* 👈 prevents it from getting huge */
-    height: auto;
-    border-radius: 10px;
+.portfolio-video {
+  width: 50%;
+  max-width: 450px;
+  height: auto;
+  border-radius: 10px;
 }
+
 .intro {
     padding: 40px 20px;
 }
