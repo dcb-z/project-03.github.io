@@ -127,6 +127,36 @@ img {
 .email-link:hover {
   color: #b89b8c;
 }
+/* ===== CONTACT PAGE SPACING FIX ===== */
+.contact {
+  max-width: 700px;
+  margin: 40px auto 20px auto;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.contact h2 {
+  margin-bottom: 25px;
+}
+
+.contact-subtitle {
+  margin-bottom: 35px;
+}
+
+.contact-box {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.contact-box p {
+  margin: 5px 0;
+}
+
+.email-link {
+  color: #7a6a5f;
+  text-decoration: none;
+  font-weight: 500;
+}
 
 /* ===== FOOTER ===== */
 footer {
