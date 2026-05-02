@@ -98,10 +98,11 @@ img {
   width: 100%;
   max-width: none;
   height: 260px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 14px;
   display: block;
   margin: 0;
+  background-color:#FADFD7;
 }
 
 /* ===== ABOUT PAGE ===== */
