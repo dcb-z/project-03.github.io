@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project retrospective reflects on the development process of my photography portfolio website, “Memories Captured by Donna Baca.” Throughout this project, I gained experience in project management, website development, GitHub organization, HTML, CSS, troubleshooting, and creative design. This reflection is based on concepts discussed in PMUPM Chapter 7, including lessons learned, project communication, risk management, planning, and continuous improvement.
+This project retrospective reflects on the development process of my photography portfolio website, “Memories Captured by Donna Baca.” Throughout this project, I gained experience in project management, website development, GitHub organization, HTML, CSS, troubleshooting, and creative design. This reflection is based on lessons learned, project communication, risk management, planning, and continuous improvement.
 
 ---
 
