@@ -12,7 +12,7 @@ One aspect that went well during this project was the overall visual design and 
 
 Another success was learning how to manage and organize files using GitHub and GitHub Pages. At the beginning of the project, I had very little experience using GitHub. By the end of the project, I learned how to organize repositories, create folders for images and videos, manage file paths, and publish a live website online.
 
-Peer feedback also played an important role in improving the project. Based on suggestions from classmates, I revised the color palette, hover effects, spacing, and gallery organization. PMUPM Chapter 7 discusses the importance of communication and continuous improvement throughout a project lifecycle, and peer feedback helped strengthen both the design and usability of my website.
+Peer feedback also played an important role in improving the project. Based on suggestions from classmates, I revised my gallery image organization and resolution of my images. PMUPM Chapter 7 discusses the importance of communication and continuous improvement throughout a project lifecycle, and peer feedback helped strengthen both the design and usability of my website.
 
 Additionally, breaking the project into smaller tasks helped improve workflow management. Completing development in phases made the project feel more manageable and reduced stress during the final stages of submission.
 
